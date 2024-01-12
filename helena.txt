@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+	<head>
+		<meta charset="utf-8">
+		<title>LA PÁGINA WEB DE HELENA</title>
+	</head>
+	<body>
+		<h1>El baile</h1>
+		<hr>
+		<p>· <a href="pagina1.1">¿Cómo empezé en el baile?</a></p>
+		<p>· <a href="pagina2.2"¿Qué puertas me ha abierto?</a></p>
+	</body>
+</html>
